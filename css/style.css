@@ -148,7 +148,7 @@ display:flex;
 
 /* Contact Section */
 #contact{
-    position: relative;
+    /* position: relative; */
 }
 #contact::before{
     content: "";
